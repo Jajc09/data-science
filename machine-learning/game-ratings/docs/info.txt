@@ -1,0 +1,29 @@
+________________________________________________________________________________________________________________
+Info about games (Nepluis topic proposal)
+________________________________________________________________________________________________________________
+About RAWG:
+https://rawg.io/apidocs
+
+ML ALGORITHM TO PREDICT VIDEOGAME RATING
+-the dataset has the game´s content by colmns and a esrb rating as category
+-the problem to solve would be something like: i want to release a videogame but i wanna know what rating am i gonna obtain based on my game´s content
+-we an remove the labels and ran a clustering algorithm first to get the clusters and create the labels ourselves to increase the complexity
+
+About the dataset: 
+1. https://www.kaggle.com/imohtn/video-games-rating-by-esrb
+2. https://www.kaggle.com/jummyegg/rawg-game-dataset
+3. https://www.kaggle.com/abcsds/pokemon
+
+________________________________________________________________________________________________________________
+Info about credit score (Javier topic proposal)
+________________________________________________________________________________________________________________
+About the dataset:
+https://www.kaggle.com/rikdifos/credit-card-approval-prediction/tasks?taskId=1416 
+(there is not Y variable) 
+
+________________________________________________________________________________________________________________
+Info about gender recognition by voice (Javier topic proposal)
+________________________________________________________________________________________________________________
+About the dataset:
+https://www.kaggle.com/primaryobjects/voicegender
+

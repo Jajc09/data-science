@@ -1,0 +1,29 @@
+ - Summary text
+
+What I was actually doing here was teaching her neural network (brain) the features of a lion like exactly how Machine Learning Engineers would train the machine to learn new features.
+After telling her the features of a lion, asked her “Can you draw these for me?” She happily drew almost a similar figure to that of a dog she drew before.
+A dog will have features like face, body, legs, and tail.
+A lion will have features like face, body, legs, tail and a beard.
+Her neural network got aligned with classifying Dogs and Lions after some training.
+Do you know what is the difference between a lion and a dog?” She said, “Yes.” I said, “This is called Learning.
+How you learnt it is because of Neural Network inside your brain.” Now, a neural network is a collection of neurons that keeps switching on and off based on things you see, feel, hear and think just like switching on light bulb at our home.
+For example, when I showed you a lion picture, your brain asked the neurons who had seen it before.
+The neurons grouped together with features like face, body, legs, tail and a beard forms a lion.
+Once all the features are there, the neurons will send a signal that the picture you are looking at is a lion and not a dog.
+Every neuron will tune itself to pick up certain features like legs, tail, face, beard, and so on.
+Ultimately, the neurons in your brain tell that it is a lion and not a dog.
+In a few milliseconds, your brain identifies whether the picture is a lion or a dog.
+Tanishi: Neurons
+When I ask you to draw a dog, what are the features there?
+Me: So, for a dog, the features are face, body, legs and tail.
+If I ask you to draw a lion, what are the features?
+So, neurons are inside our brain waiting for features.
+Once the features are seen and a logical connection is established, neurons signals your brain that it is a lion.
+Tanishi: Neurons
+All neurons work together like your friends and identify lion and dog.
+Neural network is a group of neuron friends identifying lions and dogs.
+
+- Explanation of which is the best method for this task
+
+The summa library manages to establish the objective of the article in a clear way and at the same time explains the functioning of neural networks, the way it is written and the consistency of the information make it the best method for this task. The gensim library also achieves very good results, however it seems to me that the initial part is not as clear as it is with the summa library.
+According to the results obtained with the rouge package, we can say that the measure ROUGE-L (measures the longest common subsequence) for the summary made with the summa library is the highest {'r': 0.219, 'p': 1.0 , 'f': 0.360} compared to the other summaries made. The recall, precision and f1-score metrics are higher for this summary (summa) making it the best of all.
