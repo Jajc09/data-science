@@ -6,7 +6,7 @@ The goal for this project is to make a neural network model to predict the renta
 
 ## Dataset: 
 
-The dataset was obtained from [Toward Data Science Article](https://github.com/Jotaherrer/DataAnalysis) and has ___ rows and ____ columns. Contains information 
+The dataset was obtained from [Data Analysis of New York Rentals using Python](https://github.com/Jotaherrer/DataAnalysis) and has ___ rows and ____ columns. Contains information 
 
 ## Models:
 
