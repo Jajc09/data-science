@@ -1,4 +1,4 @@
-# Rental Prices Prediction for New York City
+# Rental Prices Prediction for Boston
 
 ## Problem Statement:
 
